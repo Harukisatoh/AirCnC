@@ -1,0 +1,1 @@
+This folder is where all the photos uploaded on the web-client is going to be saved
